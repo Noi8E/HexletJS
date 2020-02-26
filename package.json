@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/Noi8E/HexletJS/issues"
   },
-  "homepage": "https://github.com/Noi8E/HexletJS#readme"
+  "homepage": "https://github.com/Noi8E/HexletJS#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3"
+  }
 }
